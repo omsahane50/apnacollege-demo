@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
-Author Omkar Sahane
+<br>
+Author - Omkar Sahane
